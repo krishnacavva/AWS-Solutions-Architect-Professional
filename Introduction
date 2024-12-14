@@ -65,6 +65,25 @@ Domain 1 : Design Solutions for organizational complexity (26%)
             - IAM Access Analyzer. 
 
     - Design reliable and resilient architectures. 
+        - Reliability Foundations
+        - Workload Architecture
+        - Failure Management. 
+        - Amazon Route 53
+        - Elastic Load Balancing
+        - AWS Auto Scaling
+        - Latency:
+            - Amazon CloudFront
+            - AWS Global Accelerator
+        - RPO & RTO:
+            - Multi-site (active/active)
+            - Warm Standby
+            - Pilot Light
+        - Replicating Workload Componenets and Backups:
+           - AWS Elastic Disaster Recovery
+           - AWS Backup
+            
+
+
     - Design a multi-account environment. 
     - Determing cost optimization and visibility strategies. 
 
