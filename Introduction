@@ -81,10 +81,16 @@ Domain 1 : Design Solutions for organizational complexity (26%)
         - Replicating Workload Componenets and Backups:
            - AWS Elastic Disaster Recovery
            - AWS Backup
-            
-
 
     - Design a multi-account environment. 
+        - AWS Organizations
+        - AWS Resource Access Manager
+        - Reserved Instance Sharing. 
+        - AWS Control Tower:
+            - Landing Zone
+            - Account Factory
+            - Guardrails
+            - Dashboards (Monitor AWS Accounts)
     - Determing cost optimization and visibility strategies. 
 
 Domain 2 : Design for new Solutions (29%)
